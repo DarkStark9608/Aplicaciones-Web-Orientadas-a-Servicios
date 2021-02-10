@@ -214,7 +214,9 @@ class Horoscopo():
             return result
         except:
           datos={}
-          datos["Error"]="Dato incorrecto"
+          datos["Dato"]="El dato: "+ str(zodiaco)
+          datos["Error"]="Valor incorrecto"
+          datos["Solucion"]="Ingresa la fecha de tu nacimiento formato DD/MM/AAAA"
           result = json.dumps(datos)
           return result 
 
