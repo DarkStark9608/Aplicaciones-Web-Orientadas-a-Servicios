@@ -1,0 +1,11 @@
+Nombre: oscar Fecha de nacimiento: 08/01/1996 Edad: 25
+Nombre: oscar Fecha de nacimiento: 08/01/1996 Edad: 25
+Nombre: Pedro Fecha de nacimiento: 08/01/1995 Edad: 26
+Nombre: Juan Fecha de nacimiento: 08/01/1995 Edad: 26
+Datos Invalidos
+Nombre: Pablo Fecha de nacimiento: 08/01/1966 Edad: 55
+Nombre: Damian Fecha de nacimiento: 02/11/1966 Edad: 55
+Nombre: Damian Fecha de nacimiento: 02/11/1997 Edad: 24
+Datos Invalidos
+Datos Invalidos
+Datos Invalidos
